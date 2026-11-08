@@ -1,7 +1,7 @@
 # Sistema de control de calificaciones de un centro educativo
 
 **Estudiante:** Camilo Salas Jimenez
-**Matrícula:** TU-MATRICULA
+**Matrícula:** 2025-2431
 **Asignatura:** Lógica de Programación
 **Profesor:** Gamalier Reyes del Carmen
 **Tema:** Uso de bucles (estructuras de control repetitivas) en C++
